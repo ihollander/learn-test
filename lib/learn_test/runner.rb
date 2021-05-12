@@ -59,6 +59,7 @@ module LearnTest
         LearnTest::Strategies::Karma,
         LearnTest::Strategies::Protractor,
         LearnTest::Strategies::JavaJunit,
+        LearnTest::Strategies::Jest,
         LearnTest::Strategies::Mocha,
         LearnTest::Strategies::Pytest
       ]
